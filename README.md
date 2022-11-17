@@ -15,6 +15,6 @@
 -
 
 
-##TypeScript
+## TypeScript
 
 - [setState Props로 넘길때 type 지정](https://jemerald.tistory.com/127)
