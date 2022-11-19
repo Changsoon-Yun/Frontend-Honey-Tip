@@ -28,3 +28,4 @@
 ## TypeScript
 
 - [setState Props로 넘길때 type 지정](https://jemerald.tistory.com/127)
+- [Interface vs Type 성능](https://bny9164.tistory.com/48)
