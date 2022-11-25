@@ -24,7 +24,7 @@
 
 ## Vue
 
--
+- [computed vs watch](https://velog.io/@jinsu6688/vuejs-computed)
 
 
 
