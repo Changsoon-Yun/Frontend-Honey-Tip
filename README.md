@@ -25,6 +25,7 @@
 ## Vue
 
 - [computed vs watch](https://velog.io/@jinsu6688/vuejs-computed)
+- [vue 실무 프로젝트에 적용하면 좋은 내용 정리](https://jess2.xyz/vue/vue-tip/)
 
 
 
