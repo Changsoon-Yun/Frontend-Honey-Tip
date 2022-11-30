@@ -45,4 +45,4 @@
 
 ## etc..
 
--[뱅크샐러드 기술블로그](https://blog.banksalad.com/)
+- [뱅크샐러드 기술블로그](https://blog.banksalad.com/)
