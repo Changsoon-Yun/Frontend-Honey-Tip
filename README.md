@@ -47,3 +47,4 @@
 
 - [뱅크샐러드 기술블로그](https://blog.banksalad.com/)
 - [구글 스프린트](https://brunch.co.kr/@brunchjwshim/90)
+- [518일동안 단 하루도 빠지지 않고 알고리즘을 풀었다.](https://kwiki.devserum.com/ko/articles/tech-articles/2021-05-31-518-consecutive-days-algorithm-challenge?fbclid=IwAR1zkm33drSs3udsogwwOKHgMDkK0T_PVOe-SB2V6r5O0Vv0C63UOtYtj6c)
