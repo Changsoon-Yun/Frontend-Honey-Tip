@@ -17,7 +17,7 @@
 #### Youtube
 - [contextAPI + styled-components로 재사용 컴포넌트 만들기](https://www.youtube.com/watch?v=5RhCxzmp2yw&t=362s&ab_channel=%EA%B0%9C%EB%B0%9C%ED%99%94%EB%9D%BC%EB%A6%ACHwarang)
 - [리액트 TDD](https://www.youtube.com/watch?v=L1dtkLeIz-M&t=137s&ab_channel=FEConfKorea)
-
+- [프론트엔드 클린코드](https://www.youtube.com/watch?v=edWbHp_k_9Y&t=695s&ab_channel=%ED%86%A0%EC%8A%A4)
 
 
 <hr>
