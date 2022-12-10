@@ -18,7 +18,6 @@
 - [프론트엔드 클린코드](https://www.youtube.com/watch?v=edWbHp_k_9Y&t=695s&ab_channel=%ED%86%A0%EC%8A%A4)
 
 
-<hr>
 
 ## Vue
 
@@ -26,8 +25,6 @@
 - [vue 실무 프로젝트에 적용하면 좋은 내용 정리](https://jess2.xyz/vue/vue-tip/)
 
 
-
-<hr>
 
 ## TypeScript
 
